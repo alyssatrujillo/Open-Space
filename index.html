@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Open Space</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body class="opening-on">
+    <section class="opening" id="opening" aria-label="Open Open Space">
+      <div class="ripples" aria-hidden="true">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+      <div class="opening-card">
+        <h1>Open Space</h1>
+        <p>The brief stays closed until the inputs are in.</p>
+        <button type="button" class="enter" id="open-collaborate">Collaborate</button>
+      </div>
+    </section>
+
+    <header class="nav">
+      <div class="nav-inner">
+        <button type="button" class="wordmark" id="wordmark">Open Space</button>
+        <nav class="modes" id="modes" aria-label="Open Space"></nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <h1>Open Space</h1>
+        <p class="tagline" id="tagline"></p>
+      </section>
+
+      <div class="layout" id="studio">
+        <aside class="inputs" aria-label="Team inputs">
+          <div id="inputs"></div>
+        </aside>
+        <section class="brief" id="brief" aria-live="polite"></section>
+      </div>
+      <section class="feature" id="feature" hidden></section>
+    </main>
+
+    <script src="analysis.js"></script>
+    <script src="uploaded-data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

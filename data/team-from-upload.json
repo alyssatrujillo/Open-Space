@@ -1,0 +1,27 @@
+{
+  "sourceFile": "Headcount_Team Charter Template.docx.pdf",
+  "teamName": "Headcount (TMP 463)",
+  "projectPurpose": "Plan music events with friends and family; reduce stress of group hangout planning.",
+  "rosterText": "Alyssa Trujillo | Project Lead; Prototype Lead\nKarla Melendrez Duran | Customer Discovery Lead\nDiego Chaidez | Competitive Analysis Lead\nMahendra Kumar | Go-to-market Lead; Presentation Lead\nAdriana Carrillo | Economics Lead",
+  "backups": {
+    "Alyssa": "Diego (project), Karla (discovery backup is Alyssa for discovery lead—charter lists Alyssa as backup for Customer Discovery)",
+    "Karla": "Alyssa",
+    "Diego": "Adriana (competitive), Diego backup for project",
+    "Mahendra": "Karla (GTM), Adriana (presentation)",
+    "Adriana": "Diego (economics)"
+  },
+  "decisionRule": "",
+  "participationNorm": "",
+  "conflictPath": "Have a team meeting and discuss the issue together.",
+  "channel": "WhatsApp",
+  "responseTime": "within 2 hours",
+  "meetingFrequency": "1–2 times per week (Wednesdays 7:30 pm and other days)",
+  "meetingLength": "60 minutes",
+  "feedbackNorm": "Honest, respectful, and specific feedback; address concerns early.",
+  "customerMixFromWorkplan": "College students, Professors, Workers, Social media",
+  "leadsCoordinate": true,
+  "transcriptFile": "headcount-sample-meeting.txt",
+  "missingFromFolder": [
+    "Recording and transcript of a real team meeting (paste, import, or record when you have it)"
+  ]
+}
