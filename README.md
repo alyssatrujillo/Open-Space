@@ -12,6 +12,15 @@ A local team-process brief for the person running a meeting.
 
 Open `index.html` through a local server (e.g. `python3 -m http.server 8756` in this folder) so the page can load `data/`. The design note is `DESIGN.md`.
 
+## Deploy on Vercel (GitHub)
+
+Repo: [github.com/alyssatrujillo/Open-Space](https://github.com/alyssatrujillo/Open-Space)
+
+1. Sign in at [vercel.com](https://vercel.com) with the same GitHub account.
+2. **Add New… → Project** → import **Open-Space**.
+3. Leave **Build Command** empty and **Output Directory** as `.` (root).
+4. **Deploy**. Later `git push` to `main` redeploys automatically.
+
 Transcript format, also in `sample-transcript.txt`:
 
 ```
